@@ -28,6 +28,11 @@ An experimental study of housing-value prediction using Ridge, LASSO, and Multip
 - How does excluding observations at the apparent target boundary affect model performance and target coverage?
 - Does regularization provide a meaningful advantage over ordinary multiple linear regression?
 
+**Project deliverables**
+- [Project documentation](./01-housing-value-regression/README.md)
+- [Jupyter Notebook](./01-housing-value-regression/01-housing-value-regression-notebook.ipynb)
+- [Presentation (PDF)](./01-housing-value-regression/01-housing-value-regression-presentation.pdf)
+
 [Explore the project →](./01-housing-value-regression/)
 
 ## More Projects
@@ -36,6 +41,6 @@ More projects in data analytics, machine learning, and applied AI will be added 
 
 ## Contact
 
-- **LinkedIn:** Add profile URL
-- **Email:** Add professional email
+- **LinkedIn:** [linkedin.com/in/alwanmr](https://www.linkedin.com/in/alwanmr)
+- **Email:** alwanrasyid21@gmail.com
 - **GitHub:** [@alwanmr](https://github.com/alwanmr)
