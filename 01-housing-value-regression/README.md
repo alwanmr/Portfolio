@@ -4,6 +4,12 @@
 **Tools:** Python, Pandas, Scikit-learn, Jupyter Notebook  
 **Models:** Ridge Regression, LASSO Regression, Multiple Linear Regression
 
+## Project Materials
+
+- [Open the Jupyter Notebook](./01-housing-value-regression-notebook.ipynb)
+- [View the Presentation (PDF)](./01-housing-value-regression-presentation.pdf)
+- [Dataset (CSV)](./boston.csv)
+
 ## Overview
 
 This project explores how modeling decisions affect housing-value prediction. Using the Boston Housing dataset, the analysis compares regularized regression models, tests whether removing a highly correlated feature improves prediction, and investigates the effect of excluding target observations at an apparent upper boundary.
@@ -42,9 +48,3 @@ The Boston Housing dataset also has known contextual and historical limitations.
 The most consequential lesson was not that one algorithm universally outperformed the others. Instead, the experiments showed the importance of validating assumptions, comparing approaches on held-out data, and interpreting performance metrics alongside target coverage.
 
 The model should be viewed as an **initial analytical reference for exploring housing-value prediction**, not as a replacement for professional property valuation.
-
-## Project Materials
-
-- **Presentation:** To be added
-- **Notebook:** To be added
-- **Dataset:** Use an authorized source; dataset files are not included in this folder yet.
